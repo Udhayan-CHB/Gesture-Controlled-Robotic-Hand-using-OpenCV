@@ -16,7 +16,7 @@ Control a robotic arm in real-time using hand gestures detected via OpenCV. This
 - Hardware: Arduino Uno/Nano, Servo Motors, Robotic Arm Frame
 - Communication: Serial (USB) between Python and Arduino
 
-# 🛠 Hardware Requirements
+# Hardware Requirements
 
 - 1x Arduino Uno/Nano  
 - 5x Servo motors (for basic arm movement)  
@@ -33,7 +33,7 @@ Control a robotic arm in real-time using hand gestures detected via OpenCV. This
 - PySerial  
 - Arduino IDE  
 
-# 🚀 How It Works
+# How It Works
 
 1. OpenCV captures real-time video from your webcam.  
 2. Hand gestures are detected using contour/landmark tracking.  
