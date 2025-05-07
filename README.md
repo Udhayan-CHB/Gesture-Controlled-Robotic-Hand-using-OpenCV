@@ -1,11 +1,6 @@
 # Gesture-Controlled-Robotic-Hand-using-OpenCV
 Control a robotic arm in real-time using hand gestures detected via OpenCV. This project leverages computer vision to track hand movements and translates them into robotic arm actions — no physical contact or controllers needed!
 
-
-# Gesture Controlled Robotic Arm using OpenCV
-
-Control a robotic arm in real-time using simple hand gestures, powered by OpenCV. This project enables touch-free human-machine interaction using computer vision — just wave your hand to move the arm!
-
 # Features
 
 - Real-time hand gesture recognition using OpenCV
