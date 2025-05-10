@@ -1,3 +1,6 @@
 Project Update:
 
-We initially planned to control the robotic arm using flex sensors to capture finger movements. However, due to product issues and inconsistencies with the flex sensors, we were unable to achieve reliable performance. As a result, we pivoted our approach and implemented a solution using OpenCV and computer vision for hand gesture recognition. This alternative not only resolved the hardware limitations but also enhanced the flexibility and interactivity of the system.
+We initially planned to control the robotic arm using flex sensors to capture finger movements. 
+However, due to product issues and inconsistencies with the flex sensors, we were unable to achieve reliable performance.
+As a result, we pivoted our approach and implemented a solution using OpenCV and computer vision for hand gesture recognition. 
+This alternative not only resolved the hardware limitations but also enhanced the flexibility and interactivity of the system.
